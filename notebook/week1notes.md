@@ -9,7 +9,14 @@ This week we began building a prototype for our robot. We decided for now that o
 
 In our initial attempt, the back wheels were not properly attached to the base (see first picture), which caused issues with getting the wheels to properly spin. To fix this issue, we decided to cut out a larger foam core base to account for the space in which these wheels would be attached. Small pieces of foam core were placed to stabilize the motor, and the wheels were attached to the base by using multiple screws that went through these layers of foam core. 
 
+![img_20190218_163824](https://user-images.githubusercontent.com/36004866/53213578-81b85600-3617-11e9-9874-0bc138cc842e.jpg)
+![img_20190218_163813](https://user-images.githubusercontent.com/36004866/53213579-81b85600-3617-11e9-8ab7-240a624eba2b.jpg)
+![img_20190218_130742](https://user-images.githubusercontent.com/36004866/53213580-81b85600-3617-11e9-9f90-c3d004d3fdba.jpg)
+
+
 In addition, we completed our first milestone as we got the robot to move forward! The robot doesn't move in a straight line, but we believe this will be fixed once we build a sturdier base. 
+
+
 
 
 Acknowledgments:
