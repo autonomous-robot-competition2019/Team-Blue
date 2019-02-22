@@ -13,7 +13,11 @@ In addition, we completed our first milestone as we got the robot to move forwar
 
 
 Acknowledgments:
+
 Kiara: Worked on building prototype.
+
 Nadim: Worked on building prototype.
+
 Ryan: Found and modified code to get robot to move forward. Also, helped with prototype. 
+
 Phil: Fixed our servo shield :) (thank you!!)
