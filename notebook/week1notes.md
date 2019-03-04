@@ -33,4 +33,4 @@ Phil: Fixed our servo shield :) (thank you!!)
 
 This week we continued adding to the prototype.  We attached a new front wheel to assist with turning, reattached the rear wheels with a sturdier construction, and added IR sensors for collision detection.  With these sensors we were able to write code that would make the robot turn if it saw an object in front of it on either side.  Finally, we began experimenting with RGB sensors and the camera, to try to implement the keeper role. 
 
-Milestone 2 and 3 were achieved! The first video was our initial attempt at building a reliable sensor system, but the second video dmoenstrates its ability to effectively avoid any obstacles in its path.
+Milestone 2 and 3 were achieved! The first video was our initial attempt at building a reliable sensor system, but the second video demonstrates its ability to effectively avoid any obstacles in its path.
