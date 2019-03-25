@@ -31,6 +31,10 @@ Phil: Fixed our servo shield :) (thank you!!)
 
 # ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20%5Ctext%7BFebruary%7D%20%5C%3B%20%2425%5E%7B%5Ctext%7Bth%7D%7D)
 
-This week we continued adding to the prototype.  We attached a new front wheel to assist with turning, reattached the rear wheels with a sturdier construction, and added IR sensors for collision detection.  With these sensors we were able to write code that would make the robot turn if it saw an object in front of it on either side.  Finally, we began experimenting with RGB sensors and the camera, to try to implement the keeper role. 
+This week we continued adding to the prototype.  We attached a new front wheel to assist with turning, reattached the rear wheels with a sturdier construction, and added IR sensors for collision detection.  With these sensors we were able to write code that would make the robot turn if it saw an object in front of it on either side.  Finally, we began experimenting with RGB sensors and the camera, to try to implement the keeper role.
 
 Milestone 2 and 3 were achieved! The first video was our initial attempt at building a reliable sensor system, but the second video demonstrates its ability to effectively avoid any obstacles in its path.
+
+# ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20%5Ctext%7BMarch%7D%20%5C%3B%20%244%5E%7B%5Ctext%7Bth%7D%7D)
+
+This week we worked on the behavior of the robot.  We originally tried to have multiple color sensors to detect the boundary for the keeper role, however we found that since the Arduino only had one set of pins for the sensor we could not get a reliable range of colors that would work for both sensors.  Instead we decided to have one sensor on the front and turn around once a boundary is detected.  However, we did not have enough time this week to fully tune the constants to ensure the proper behavior occurs every time.  This week we also completed milestone 6 by adding a timed stop system so that during the competition the robot will shut down at the end of the allowed time.
