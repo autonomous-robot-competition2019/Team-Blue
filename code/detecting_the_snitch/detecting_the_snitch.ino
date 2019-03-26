@@ -53,7 +53,7 @@ void loop()
 
 bool check_approach() {
              Serial.print("hello");
-
+  // the following if statement block of code is from the "helloworld" file from the Examples of the Pixy library 
  if (blocks)
     {
 
