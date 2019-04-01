@@ -38,15 +38,14 @@ Milestones 2 and 3 were achieved! The first video was our initial attempt at bui
 This week we worked on the behavior of the robot.  We originally tried to have multiple color sensors to detect the boundary for the keeper role, however we found that since the Arduino only had one set of pins for the sensor we could not get a reliable range of colors that would work for both sensors.  Instead we decided to have one sensor on the front and turn around once a boundary is detected.  However, we did not have enough time this week to fully tune the constants to ensure the proper behavior occurs every time.  This week we also completed milestone 6 by adding a timed stop system so that during the competition the robot will shut down at the end of the allowed time.
 
 
-March 25th 
+# ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20%5Ctext%7BMarch%7D%20%5C%3B%20%2425%5E%7B%5Ctext%7Bth%7D%7D)
 
 This week we worked exclusively on completing milestones 7 and 8 (need to double-check which numbers), which involved reliably identifying the snitch and quaffles. In order to identify these objects, the robot relied on the Pixy cam to pinpoint the location of orange (snitch) and green (quaffle) objects. The code was written so that the robot would locate and follow the object by rotating itself in place, so that later we can add more code to make the robot move forward while adjusting its position relative to the object. -- stay tuned for videos of the milestones! --
 
-In addition, we worked with the light sensor to create a function that would stop the robot when a light was directed towards it. A slight issue we ran into with the sensor was that the numbers that appeared in the serial monitor were significantly lower than expected, but the issue was resolved by changing the analog port the sensor connected to. 
+In addition, we worked with the light sensor to create a function that would stop the robot when a light was directed towards it. A slight issue we ran into with the sensor was that the numbers that appeared in the serial monitor were significantly lower than expected, but the issue was resolved by changing the analog port the sensor connected to.
 
-With regard to the structure of our robot, we exchanged our wheels for a much sturdier set supplied by Nick (thank you!), which made the robot move a little more gracefully and reliably. Yay :) 
+With regard to the structure of our robot, we exchanged our wheels for a much sturdier set supplied by Nick (thank you!), which made the robot move a little more gracefully and reliably. Yay :)
 
 Acknowledgments:
 
 Kiara = wrote code to achieve milestones!
-
