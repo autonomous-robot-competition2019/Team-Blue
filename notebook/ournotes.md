@@ -49,3 +49,7 @@ With regard to the structure of our robot, we exchanged our wheels for a much st
 Acknowledgments:
 
 Kiara = wrote code to achieve milestones!
+
+# ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20%5Ctext%7BApril%7D%20%5C%3B%20%241%5E%7B%5Ctext%7Bst%7D%7D)
+
+This week we continued our work on reliably detecting aspects of the game.  We modified our code for detecting the snitch and quaffles to detect the goals.  The main issue with this was detecting the goal and not detecting the tape that designates the bounds of the arena, since they are the same color.  We were able to differentiate between the two by using the fact that the goals are significantly larger than the boundary tape.  Also this week we worked on our implementation of the keeper role.  We added a large blocking surface and began experimenting with the timing of our code.  However, we determined that because of our prototype base not being rigid enough to properly support our front wheel we could not get consistent behavior for the keeper role.  Because of this we began work on a new 3D model of a base for the robot which we should finish in the next week.
