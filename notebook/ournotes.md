@@ -48,7 +48,7 @@ With regard to the structure of our robot, we exchanged our wheels for a much st
 
 Acknowledgments:
 
-Kiara = wrote code to achieve milestones!
+Kiara: wrote code to achieve milestones!
 
 # ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20%5Ctext%7BApril%7D%20%5C%3B%20%241%5E%7B%5Ctext%7Bst%7D%7D)
 
@@ -58,5 +58,6 @@ Also, this week we worked on our implementation of the keeper role.  We added a 
 
 Acknowledgements:
 
-Ryan & Kiara = worked on figuring out issues and code for goal detection and keeper role
-Nadim = worked on modifying structure of robot to block quaffles
+Ryan & Kiara: worked on figuring out issues and code for goal detection and keeper role
+
+Nadim: worked on modifying structure of robot to block quaffles
