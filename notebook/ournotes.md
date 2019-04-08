@@ -56,7 +56,7 @@ This week we continued our work on reliably detecting aspects of the game.  We m
 
 Also, this week we worked on our implementation of the keeper role.  We added a large blocking surface and began experimenting with the timing of our code.  However, we determined that because of our prototype base not being rigid enough to properly support our front wheel we could not get consistent behavior for the keeper role.  Because of this we began working on a new 3D model of a base for the robot, which we should finish in the next week.
 
-Acknowledgements:
+Acknowledgments:
 
 Ryan & Kiara: worked on figuring out issues and code for goal detection and keeper role
 
@@ -68,3 +68,9 @@ Nadim: worked on modifying structure of robot to block quaffles
 This week we worked on the model for the base of our robot. We gave the dimensions and model to Phil and Carl to create the base out of plexiglass :) At the same time, we also worked on scaling down the size of the structure as we are no longer using the large battery pack. 
 
 We attempted to use the servo shield, but it needed its own source of power and with our breadboard we can easily install servos without the shield. As of right now, we are currently only using the motor shield. Yay. We also found code that enabled us to get the claw finally working! 
+
+Acknowledgments:
+
+Ryan: worked on code for model :D
+
+Kiara: restructured the robot, tried to figure out claw 
