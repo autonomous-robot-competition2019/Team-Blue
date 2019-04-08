@@ -61,3 +61,10 @@ Acknowledgements:
 Ryan & Kiara: worked on figuring out issues and code for goal detection and keeper role
 
 Nadim: worked on modifying structure of robot to block quaffles
+
+# ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20%5Ctext%7BApril%7D%20%5C%3B%20%248%5E%7B%5Ctext%7Bth%7D%7D)
+
+
+This week we worked on the model for the base of our robot. We gave the dimensions and model to Phil and Carl to create the base out of plexiglass :) At the same time, we also worked on scaling down the size of the structure as we are no longer using the large battery pack. 
+
+We attempted to use the servo shield, but it needed its own source of power and with our breadboard we can easily install servos without the shield. As of right now, we are currently only using the motor shield. Yay. We also found code that enabled us to get the claw finally working! 
