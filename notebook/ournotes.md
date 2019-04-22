@@ -89,5 +89,14 @@ Ryan & Kiara: discussions about strategies
 Kiara: restructuring the robot
 
 
+April 22nd, 2019
+
+This week we properly implemented the keeper role which makes the robot move back and forth in front of all of the goals for now. The movement is triggered currently when it sees a yellow line, but this will (hopefully) later be modified to start after detecting a robot that is a certain distance away. We have technically completed milestones 5 and 10, which require us to implement a player role and block quaffles, respectively.
+
+We also attempted to incorporate a conveyor belt for the purpose of putting quaffles in the goals, but had lots of difficulties in getting it to work. The belt itself broke after a couple of rotations for unknown reasons. We tried shortening the length of the belt to see if that would allow it to rotate more, but it still quickly became undone. After this adventure with the conveyor belt, we decided against using it for our final design.
+
+In addition, we created a mechanism to capture the snitch with a rectangular foamcore arm which is connected to a servo that lifts it up and down. We are planning to test it next week to see how effectively it can chase/follow the snitch and capture it. The reason we built this was to make it easier to take a wing off. 
+
+Stay tuned for more updates next week! #TeamSBFFs
 
 
