@@ -100,3 +100,17 @@ In addition, we created a mechanism to capture the snitch with a rectangular foa
 Stay tuned for more updates next week! #TeamSBFFs
 
 
+April 29th, 2019
+
+Team SBFFs here for our weekly update :) T-minus two weeks until BattleBo-we mean the Robot Competition! 
+
+Because of the conveyor belt debacle last week, we primarily focused on implementing the behavior needed to capture the snitch this week. We began by modifying the servo set-up on the robot that controlled the rectangular foamcore arm as last week we simply taped the servo on to a red cube that was then taped to the base. So a whole lot of tape, and not a lot of stability. Kiara measured the necessary dimensions for a potential servo holder, while Ryan–our resident 3D model master–quickly created the model that would be printed. 
+
+While the model was being printed, the duo worked on fixed the signatures on the PixyCam to detect the snitch. The main issue that came up was that the robot easily detected the cabinets in the room as the same color as the snitch and would make a beeline for the cabinets. The code was modified so that the robot would only move towards "orange" objects with a specific width and height, which seemed to fix this issue. We added code that would also allow the robot to spin in place ("search_spin") when the snitch was not detected or close enough. In the end, the robot was able to successfully find and follow the snitch around the arena! Robot = 1, Snitch = 0. Now let's hope this works on game day too...
+
+Back to the model. When it was done printing, we immediately noticed a slight error in our calculations. The area that was supposed to hold the servo was a little too small and Kiara forgot to factor in the wire that jutted out from the side of the servo. Both Nadim and Kiara tried their best to cut out a piece of the model to make the servo fit, but to no avail. The internet told us we needed a hot knife to cut through the model–we had neither a knife nor a microwave to follow through with this plan (don't worry we wouldn't, but it was tempting b/c it took a while to print it...). Anyways, we're going to tinker with the 3D model so we can account for the wire and create a little wiggle room for the servo. 
+
+Will Team SBBFs be able to create a 3D model that fits their servo? Will they complete their robot in time? We want to know the answers to these questions too. 
+
+As always, stay tuned next week for updates! 
+
