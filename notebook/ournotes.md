@@ -1,4 +1,4 @@
-# ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20%5Ctext%7BFebruary%7D%5C%3B11%5Etext%7Bth%7D)
+# ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20%5Ctext%7BFebruary%7D%20%5C%3B%20%2411%5E%7B%5Ctext%7Bth%7D%7D)
 
 This week we continued discussing strategies in response to the evolving rule set.  For example we discussed the feasibility of the main role being the keeper.  Based on previous discussions, we made a 3D model for the base of the robot.  However, we later decided that it would be better to prototype with less expensive and time consuming materials.  Finally, we tested the pixy camera and attempted to test servos but we were not able to get those working failure on the servo shield.
 
@@ -77,7 +77,7 @@ Kiara: restructured the robot, tried to figure out claw
 
 
 
-April 15th, 2019
+# ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20%5Ctext%7BApril%7D%20%5C%3B%20%2415%5E%7B%5Ctext%7Bth%7D%7D)
 
 This week we coordinated with Carl in creating the base and are currently waiting for it to be completed. Since we gave him our wheels for mounting onto the base, we were not able to make a lot of progress on implementing a player role. Instead, we rebuilding the structure of the robot to hold the camera, servo shield, and breadboard. 
 
@@ -88,8 +88,7 @@ Acknowledgements:
 Ryan & Kiara: discussions about strategies
 Kiara: restructuring the robot
 
-
-April 22nd, 2019
+# ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20%5Ctext%7BApril%7D%20%5C%3B%20%2422%5E%7B%5Ctext%7Bnd%7D%7D)
 
 This week we properly implemented the keeper role which makes the robot move back and forth in front of all of the goals for now. The movement is triggered currently when it sees a yellow line, but this will (hopefully) later be modified to start after detecting a robot that is a certain distance away. We have technically completed milestones 5 and 10, which require us to implement a player role and block quaffles, respectively.
 
@@ -99,8 +98,7 @@ In addition, we created a mechanism to capture the snitch with a rectangular foa
 
 Stay tuned for more updates next week! #TeamSBFFs
 
-
-April 29th, 2019
+# ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20%5Ctext%7BApril%7D%20%5C%3B%20%2429%5E%7B%5Ctext%7Bth%7D%7D)
 
 Team SBFFs here for our weekly update :) T-minus two weeks until BattleBo-we mean the Robot Competition! 
 
